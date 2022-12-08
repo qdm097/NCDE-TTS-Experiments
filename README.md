@@ -1,6 +1,6 @@
 # NCDE-TTS-Experiments
 
-This repository was created in association with a course (Comp 562: Machine Learning) for the purpose of writing a paper (research time unrelated, it started in January 2020).
+This repository was created in association with a course (Comp 562: Machine Learning) for the purpose of writing a paper (research started in January 2020, but repo released now for said purpose).
 It is the result of about 2 years of on and off experimentation and research into NCDEs in the context of speech synthesizers.
 The paper associated with that class may be added to this repo at some point to help with understanding, but in brief:\
 \
